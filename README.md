@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tysonrsuth
 - 👀 I’m interested in learning software development
-- 🌱 I’m currently preparing to enroll in a Computer Science degree program
+- 🌱 I’m a computer science major
 
 <!---
 tysonrsuth/tysonrsuth is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
